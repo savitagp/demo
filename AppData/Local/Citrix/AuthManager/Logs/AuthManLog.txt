@@ -68,3 +68,106 @@ Context:
 	CAuthManImpl::GetServerCertificate
 
 URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Fri Jul  2 04:26:04 2021 UTC
+LocalTime: Fri Jul  2 09:56:04 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 19.12.1000.1 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 256 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'The operation timed out'; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Fri Jul  9 04:36:04 2021 UTC
+LocalTime: Fri Jul  9 10:06:04 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 19.12.1000.1 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 256 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'The operation timed out'; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Fri Jul 16 09:50:48 2021 UTC
+LocalTime: Fri Jul 16 15:20:48 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 19.12.1000.1 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 256 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'The operation timed out'; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Sat Jul 24 02:31:09 2021 UTC
+LocalTime: Sat Jul 24 08:01:09 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 19.12.1000.1 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 256 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'The operation timed out'; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Mon Aug  2 11:27:36 2021 UTC
+LocalTime: Mon Aug  2 16:57:36 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 19.12.1000.1 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 256 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'The operation timed out'; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Mon Aug 16 04:41:20 2021 UTC
+LocalTime: Mon Aug 16 10:11:20 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 19.12.1000.1 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 256 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'The operation timed out'; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::AuthenticateAndGetServerCertificate
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.

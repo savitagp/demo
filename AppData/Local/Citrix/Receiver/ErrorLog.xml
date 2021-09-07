@@ -1,5 +1,113 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <Errors>
+	<Error Archived="false" Code="4400" Flags="2" Id="36" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Monday, August 16, 2021 10:10:08 AM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="35" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Wednesday, August 4, 2021 8:05:24 AM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="34" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Friday, July 30, 2021 7:59:53 AM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="33" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Tuesday, July 27, 2021 11:48:52 AM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="32" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Saturday, July 24, 2021 8:00:16 AM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="31" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Thursday, July 22, 2021 10:08:38 PM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="30" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Thursday, July 22, 2021 8:26:17 AM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="29" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Sunday, July 18, 2021 9:26:35 AM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="28" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Saturday, July 17, 2021 12:08:29 AM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="27" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Friday, July 16, 2021 7:33:18 AM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="26" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Wednesday, July 14, 2021 7:13:11 PM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="25" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Tuesday, July 13, 2021 9:13:47 AM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="24" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Saturday, July 10, 2021 1:00:57 PM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="23" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Friday, July 9, 2021 8:05:30 AM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="22" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Thursday, July 8, 2021 3:42:10 PM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="21" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Thursday, July 8, 2021 8:56:49 AM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="20" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Wednesday, July 7, 2021 9:46:21 PM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="19" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Wednesday, July 7, 2021 8:14:58 PM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
 	<Error Archived="false" Code="4400" Flags="2" Id="18" SubCode="0">
 	  <Text>Citrix Workspace started.</Text>
 	  <TimeStamp>Tuesday, June 29, 2021 11:08:57 PM</TimeStamp>

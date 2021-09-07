@@ -227,3 +227,22 @@ git remote remove origin
 
 git status
 git push -u origin main
+git status
+git add .
+git status
+git remote -v
+git commit -m 'intial commit'
+git status
+git remote add origin https://github.com/savitagp/XYZ.git
+git push -u origin master
+git remote add origin https://github.com/savitagp/Savita_Practice_Angular.git
+git remote rm origin
+git remote add origin https://github.com/savitagp/Savita_Practice_Angular.git
+git push -u origin master
+git pull origin master
+git pull origin main
+git pull master main
+git pull main master
+git status
+cd C:\Users\Lenovo\Desktop\demo\learning_new
+git clone https://github.com/abhishek14anandDev/Savita_Practice_Angular.git

@@ -1,6 +1,9 @@
 {
   "cli": {
-    "analytics": "ec6b6767-7e6e-4f11-928b-1c9ea605d463"
+    "analytics": "ec6b6767-7e6e-4f11-928b-1c9ea605d463",
+    "warnings": {
+      "versionMismatch": false
+    }
   },
   "version": 1
 }
